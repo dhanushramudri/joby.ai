@@ -1,4 +1,4 @@
-# Joby.ai 🚀
+# <span style="color: #f4b448;">Joby</span><span style="color: white; background-color: #fcf6ed;">.ai</span> 🚀
 
 ## Overview 🌟
 
