@@ -1,4 +1,6 @@
-# ![Joby Badge](https://img.shields.io/badge/Joby-%23f4b448?style=flat-square&logo=appveyor&logoColor=white) ![ai Badge](https://img.shields.io/badge/ai-white?style=flat-square&background=%23fcf6ed) 🚀
+#Joby.ai 
+
+**Note:** The main repository for this project is private, and this is a public repository for demonstration purposes.
 
 ## Overview 🌟
 
