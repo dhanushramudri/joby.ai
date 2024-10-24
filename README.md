@@ -1,4 +1,4 @@
-# Joby.ai 🚀
+# Joby.ai 
 
 ## Overview 🌟
 
