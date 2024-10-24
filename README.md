@@ -1,4 +1,4 @@
-# <span style="color: #f4b448;">Joby</span><span style="color: white; background-color: #fcf6ed;">.ai</span> 🚀
+# ![Joby Badge](https://img.shields.io/badge/Joby-%23f4b448?style=flat-square&logo=appveyor&logoColor=white) ![ai Badge](https://img.shields.io/badge/ai-white?style=flat-square&background=%23fcf6ed) 🚀
 
 ## Overview 🌟
 
