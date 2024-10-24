@@ -1,18 +1,17 @@
+# Joby.ai 🚀
 
-# Joby.ai
-
-## Overview
+## Overview 🌟
 
 Despite the abundance of job openings, many job seekers struggle to find positions due to hidden job postings. Our AI-powered platform uncovers these jobs in real-time, offering access to both hidden and publicly available job listings from over 29,000 companies, updated daily with no expired listings. For more information, visit [Joby.ai](https://www.joby.ai/).
 
 ### Key Features:
-- **AI-powered job scraping** from company websites.
-- **Real-time job updates** filtering out expired listings.
-- **Simplified job descriptions** for easy browsing.
-- Access to **1.5 million+ job listings**.
-- **Premium membership** for personalized recommendations.
+- **AI-powered job scraping** from company websites. 🤖
+- **Real-time job updates** filtering out expired listings. ⏰
+- **Simplified job descriptions** for easy browsing. 📄
+- Access to **1.5 million+ job listings**. 📊
+- **Premium membership** for personalized recommendations. 🔑
 
-## Tech Stack
+## Tech Stack 💻
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
@@ -27,4 +26,3 @@ Despite the abundance of job openings, many job seekers struggle to find positio
 
 ![Joby.ai Logo](https://i.postimg.cc/BQ04dkb1/ff.png)
 ![Joby.ai image](https://i.postimg.cc/kXSG3W7B/image.png)
-
