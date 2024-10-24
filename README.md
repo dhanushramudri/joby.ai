@@ -26,5 +26,5 @@ Despite the abundance of job openings, many job seekers struggle to find positio
 </p>
 
 ![Joby.ai Logo](https://i.postimg.cc/BQ04dkb1/ff.png)
-![Joby.ai image](https://i.postimg.cc/XJqtMcSh/image.png)
+![Joby.ai image](https://i.postimg.cc/kXSG3W7B/image.png)
 
