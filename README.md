@@ -27,4 +27,4 @@ Despite the abundance of job openings, many job seekers struggle to find positio
 
 ![Joby.ai Logo](https://i.postimg.cc/BQ04dkb1/ff.png)
 
-You can view the image [here](https://postimg.cc/PN2gD6mt).
+
