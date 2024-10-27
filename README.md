@@ -24,8 +24,12 @@ Despite the abundance of job openings, many job seekers struggle to find positio
   <a href="https://www.mongodb.com/cloud/atlas" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb atlas" width="100" height="40"/></a>
 </p>
 
-![Joby.ai Logo](https://i.postimg.cc/BQ04dkb1/ff.png)
-![Joby.ai image](https://i.postimg.cc/kXSG3W7B/image.png)
+<a href="https://joby.ai" target="_blank">
+  <img src="https://i.postimg.cc/BQ04dkb1/ff.png" alt="Joby.ai Logo" style="max-width: 100%; height: auto;"/>
+</a>
+<a href="https://joby.ai" target="_blank">
+  <img src="https://i.postimg.cc/kXSG3W7B/image.png" alt="Joby.ai image" style="max-width: 100%; height: auto;"/>
+</a>
 
 **Note:** The main repository for this project is private, and this is a public repository for demonstration purposes.
 
